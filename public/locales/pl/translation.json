@@ -1,0 +1,21 @@
+{
+  "lang": "pl",
+  "header_download": "<span>Pobierać</span> PDF",
+  "header_assets": "Aktywa",
+
+  "first_title": "Strategia inwestycyjna",
+  "first_subtitle": "Inwestycja średnioterminowa listopad-grudzień 2023",
+  "first_item1": "Kwota",
+  "first_item2": "Termin",
+  "first_item3": "zwrotu",
+  "first_item31": "dni",
+
+  "first_sub_title": "Uzasadnienie inwestycji",
+  "first_sub_text1": "Niedawny sukces kryptowalutowego funduszu inwestycyjnego Grayscale, związany z orzeczeniem sądu w Nowym Jorku zobowiązującym SEC do ponownego rozważenia decyzji w sprawie zatwierdzenia funduszu ETF na Bitcoin, o który Grayscale wnioskował na początku tego roku, wywołał szereg plotek że zatwierdzenie podobnego Bitcoina ETF od BlackRock jest tylko kwestią czasu.",
+  "first_sub_text2": "W tym kontekście inwestorzy zaczęli zdawać sobie sprawę, że termin 240-dniowego okresu, w którym SEC musiałaby wydać orzeczenie w sprawie funduszu ETF BlackRock na Bitcoin, upłynął 9 stycznia 2024 r., przygotowując grunt pod szybki napływ inwestycji ze strony inwestorów instytucjonalnych w Bitcoin , za pośrednictwem funduszu BlackRock po zatwierdzeniu wniosku, a także od inwestorów detalicznych w oczekiwaniu na zatwierdzenie.",
+  "first_sub_text3": "Stworzyło to warunki do wzrostu wartości kontraktów terminowych na Bitcoin znajdujących się w obrocie na giełdzie CME, gdzie BlackRock posiada wielomiliardową pozycję, której wolumen uległ zwiększeniu już w lutym br., jak wynika z raportu spółki z wyników pracować w trzecim kwartale.",
+  "first_sub_text4": "W związku z tym inwestorzy zaczynają zwiększać swoje pozycje w akcjach największego funduszu inwestycyjnego na świecie, rozumiejąc perspektywy wzrostu kapitału i zysku spółki wraz ze wzrostem wartości Bitcoina.",
+  "first_sub_text5": "",
+ 
+  "three_title": "Parametry inwestycji:"
+}
